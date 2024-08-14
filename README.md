@@ -13,5 +13,4 @@ As a Scrum Master, I developed this dashboard to monitor and manage the performa
 - What-If Analysis: I've mastered scenario analysis using Excel's What-If Analysis tool, understanding the impact of variables, conducting sensitivity analysis, and making informed predictions for dynamic business environments.
 - Forecasting: I can now forecast future trends effectively, using techniques like moving averages, trendline forecasts, and Forecast Sheets to communicate findings.
 
-<br>
 ![assets/img/Excel - Scrum Master Dashboard.png](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/main/assets/img/Excel%20-%20Scrum%20Master%20Dashboard.png)
