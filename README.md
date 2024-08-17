@@ -1,6 +1,6 @@
 # 📊 Scrum Master's Excel Dashboard
 
-## Overview
+## :eye: Overview
 
 As a Scrum Master, I developed this dashboard to monitor and manage the performance of the development team. I have continuously adapted and added new features and visualizations as needed. Currently, I update the dashboard whenever I require new insights or need to analyze data for forecasting.
 
@@ -12,7 +12,7 @@ This Excel workbook offers a comprehensive overview of a Scrum team's performanc
 
 ***
 
-## Worksheet explanation
+## :spiral_notepad: Worksheet explanation
 
 ### Data Table
 
