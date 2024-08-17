@@ -18,7 +18,7 @@ This Excel workbook offers a comprehensive overview of a Scrum team's performanc
 
 Contains raw data from Scrum sprints, including team availability (hours), story points or issues planned and completed, bugs resolved, and other calculations that provide insights into sprint performance and forecasting.
 
-<kbd>![SM Excel Dashboard - Data table](https://github.com/user-attachments/assets/34ca1242-7aad-4d40-8564-9bbbcb7548fa)
+<kbd>![SM Excel Dashboard - Data table](/assets/img/SM Excel Dashboard - Data table.png)
 
 Below you can find the description of the data (columns) used in this project:
 
