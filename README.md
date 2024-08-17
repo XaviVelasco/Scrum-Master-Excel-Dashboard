@@ -59,14 +59,14 @@ Below you can find the description of the data (columns) used in this project:
 
 ### Pivot Tables
 
-- Pivot Tables: Dynamically generated pivot tables that enable flexible data exploration and analysis across various dimensions. These tables are also used to create the dashboard.
+This worksheet cointains dynamically generated pivot tables that have been created to populate the dashboard.
 
+![SM Excel Dashboard - pivot table](https://github.com/user-attachments/assets/535d774d-d6a1-461d-961f-3406b29e4211)
 
 ***
 
 ### Dashboard
 
-- Dashboard: A visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
-
+A visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
 
 <kbd>![assets/img/Excel - Scrum Master Dashboard.png](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/main/assets/img/Excel%20-%20Scrum%20Master%20Dashboard.png)
