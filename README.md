@@ -18,9 +18,7 @@ This Excel workbook offers a comprehensive overview of a Scrum team's performanc
 
 Contains raw data from Scrum sprints, including team availability (hours), story points or issues planned and completed, bugs resolved, and other calculations that provide insights into sprint performance and forecasting.
 
-<kbd>[img](/assets/img/SM Excel Dashboard - Data table.png)
-
-![Image](/assets/img/SM Excel Dashboard - Data table.png)
+<kbd>![SM Excel Dashboard - Data table](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/c87d4d9f059d0a48ff8f228866e4a6733e3530f2/assets/img/SM%20Excel%20Dashboard%20-%20Data%20table.png)
 
 Below you can find the description of the data (columns) used in this project:
 
@@ -63,7 +61,7 @@ Below you can find the description of the data (columns) used in this project:
 
 This worksheet cointains dynamically generated pivot tables that have been created to populate the dashboard.
 
-<kbd>![SM Excel Dashboard - pivot table](https://github.com/user-attachments/assets/535d774d-d6a1-461d-961f-3406b29e4211)
+<kbd>![SM Excel Dashboard - pivot table](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/6b7871554fa1efa71de40b518bda2416cc1067c8/assets/img/SM%20Excel%20Dashboard%20-%20pivot%20table.png)
 
 ***
 
@@ -71,4 +69,4 @@ This worksheet cointains dynamically generated pivot tables that have been creat
 
 A visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
 
-<kbd>
+<kbd>![SM Excel Dashboard - Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/6b7871554fa1efa71de40b518bda2416cc1067c8/assets/img/SM%20Excel%20Dashboard%20-%20Dashboard.png)
