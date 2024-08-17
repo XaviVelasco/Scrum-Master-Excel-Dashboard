@@ -69,4 +69,4 @@ This worksheet cointains dynamically generated pivot tables that have been creat
 
 A visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
 
-<kbd>![SM Excel Dashboard - Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/6b7871554fa1efa71de40b518bda2416cc1067c8/assets/img/SM%20Excel%20Dashboard%20-%20Dashboard.png)
+<kbd>![SM Excel Dashboard - Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/0d3387deb4ab816f0b4cb41eb08c7c2d9fa0441a/assets/img/SM%20Excel%20Dashboard%20-%20Dashboard.png)
