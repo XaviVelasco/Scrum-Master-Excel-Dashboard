@@ -14,6 +14,25 @@ You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-
 
 ***
 
+## Skills and formulas used
+
+This Excel file demonstrates a variety of essential data analysis and visualization skills that are crucial for understanding the performance of a Scrum team. Below is a detailed breakdown of the skills and specific Excel functions utilized:
+
+### Data Cleaning and Preparation
+
+- **Manual Data Entry and Validation**: Ensuring that all sprint data is accurately entered and validated, eliminating errors that could affect calculations and visualizations.
+- **Data Structuring**: Organizing data in a table format with clear headers and consistent data types, making it easier to analyze and create pivot tables.
+
+### Pivot Tables
+
+Dynamic Data Aggregation: Pivot tables are used to dynamically summarize and group data, allowing for flexible analysis of metrics such as planned issues, unplanned issues, and story points (SP) across different sprints.
+Filtering and Slicing: Pivot tables enable quick filtering of data by sprint, issue type, or any other relevant category, which helps in identifying trends and making data-driven decisions.
+
+### Formulas and Functions
+
+
+***
+
 ## :spiral_notepad: Worksheet explanation
 
 ### Data Table
