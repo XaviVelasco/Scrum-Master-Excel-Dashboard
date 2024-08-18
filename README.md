@@ -14,7 +14,7 @@ You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-
 
 ***
 
-## Skills and formulas used
+## :abacus: Skills and formulas used
 
 This Excel file demonstrates a variety of essential data analysis and visualization skills that are crucial for understanding the performance of a Scrum team. Below is a detailed breakdown of the skills and specific Excel functions utilized:
 
