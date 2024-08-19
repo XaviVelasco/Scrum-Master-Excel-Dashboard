@@ -40,7 +40,7 @@ Filtering and Slicing: Pivot tables enable quick filtering of data by sprint, is
 
 This Excel sheet is used to manually enter new data observed in the sprints, which will then be used for the rest of the tables and the creation of the team's control dashboard.
 
-
+<kbd>![SM Excel Dashboard - Sprint_details](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/2dc9308fbeb24c5e812218ea7ccacd616ed12b41/assets/img/SM%20Excel%20Dashboard%20-%20Sprint_details%20table.png)
 
 Below you can find the description of the data (columns) used in this sheet:
 
