@@ -19,6 +19,14 @@ You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-
 
 This Excel file demonstrates a variety of essential data analysis and visualization skills that are crucial for understanding the performance of a Scrum team. Below is a detailed breakdown of the skills and specific Excel functions utilized:
 
+- Data Analysis and Management: The use of pivot tables, data validation, and structured references to organize and analyze large datasets efficiently.
+- Excel Formulas: Key formulas used in this file include:
+ - SUMIFS and COUNTIFS: To calculate totals and counts based on multiple conditions.
+ - AVERAGEIFS: To find averages under specific conditions, useful for analyzing team performance metrics.
+ - INDEX-MATCH: For dynamic data retrieval from different tables.
+-Conditional Formatting: To highlight key performance indicators (KPIs) and other important data points visually.
+-Data Visualization: Creating dynamic charts and graphs to represent complex data in a visually appealing and easily interpretable manner.
+
 I've created cross-sheet references to ensure that the data is always consistent.
 
 ### Data Cleaning and Preparation
