@@ -6,7 +6,8 @@ As a Scrum Master, I developed this dashboard to monitor and manage the performa
 
 This Excel workbook offers a comprehensive overview of a Scrum team's performance, organized into three worksheets:
 
-- Data Table
+- Sprint_details
+- Data 
 - Pivot Tables
 - Dashboard
 
@@ -35,13 +36,34 @@ Filtering and Slicing: Pivot tables enable quick filtering of data by sprint, is
 
 ## :spiral_notepad: Worksheet explanation
 
+### Sprint_details
+
+This Excel sheet is used to manually enter new data observed in the sprints, which will then be used for the rest of the tables and the creation of the team's control dashboard.
+
+
+
+Below you can find the description of the data (columns) used in this sheet:
+
+| Column name | Column description |
+|---|---|
+| Sprint | Sprint Number | 
+| Hours |Hours that the team is available to develop in this sprint |
+| Planned Issues | Number of Issues or tasks that the team has planned to do in this sprint |
+| Planned SP | Total of the Story Points the team has commited to do in this sprint |
+| Planned Issues Done | Number of issues done that were planned |
+| Unplanned Issues Done | Number of issues done that were NOT planned |
+| Bugs (Issues) | Total Amount of bug issues done during this sprint (planned or unplanned) |
+| Planned SP Done	| Number of Story Points Done that were planned |
+| Unplanned SP Done | Number of Story Points Done that were NOT planned |
+| Bugs (SP)	| SP of bugs done during this sprint (planned or unplanned) |
+
 ### Data Table
 
 Contains raw data from Scrum sprints, including team availability (hours), story points or issues planned and completed, bugs resolved, and other calculations that provide insights into sprint performance and forecasting.
 
 <kbd>![SM Excel Dashboard - Data table](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/c87d4d9f059d0a48ff8f228866e4a6733e3530f2/assets/img/SM%20Excel%20Dashboard%20-%20Data%20table.png)
 
-Below you can find the description of the data (columns) used in this project:
+Below you can find the description of the data (columns) used in this sheet:
 
 | Column name | Type of data | Column description |
 |---|:---:|---|
@@ -51,7 +73,7 @@ Below you can find the description of the data (columns) used in this project:
 | Planned SP | Observed | Total of the Story Points the team has commited to do in this sprint |
 | Planned Issues Done | Observed | Number of issues done that were planned |
 | Unplanned Issues Done | Observed |	Number of issues done that were NOT planned |
-| Bugs | Observed | Total Amount of bug issues done during this sprint (planned or unplanned) |
+| Bugs (Issues) | Observed | Total Amount of bug issues done during this sprint (planned or unplanned) |
 | Total Issues Done | Calculated | Total amount of issues done during this sprint |
 | Planned Issues NOT Done	| Calculated | Total amount of issues planned that were NOT done |
 | % Planned Issues | Calculated | % of planned issues done in this sprint |
