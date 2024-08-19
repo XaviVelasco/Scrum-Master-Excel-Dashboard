@@ -19,6 +19,8 @@ You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-
 
 This Excel file demonstrates a variety of essential data analysis and visualization skills that are crucial for understanding the performance of a Scrum team. Below is a detailed breakdown of the skills and specific Excel functions utilized:
 
+I've created cross-sheet references to ensure that the data is always consistent.
+
 ### Data Cleaning and Preparation
 
 - **Manual Data Entry and Validation**: Ensuring that all sprint data is accurately entered and validated, eliminating errors that could affect calculations and visualizations.
@@ -57,6 +59,11 @@ Below you can find the description of the data (columns) used in this sheet:
 | Unplanned SP Done | Number of Story Points Done that were NOT planned |
 | Bugs (SP)	| SP of bugs done during this sprint (planned or unplanned) |
 
+> [!IMPORTANT]
+> This data used is based on real scrum teams but has been deliberately modified.
+
+***
+
 ### Data Table
 
 Contains raw data from Scrum sprints, including team availability (hours), story points or issues planned and completed, bugs resolved, and other calculations that provide insights into sprint performance and forecasting.
@@ -67,20 +74,20 @@ Below you can find the description of the data (columns) used in this sheet:
 
 | Column name | Type of data | Column description |
 |---|:---:|---|
-| Sprint | Observed | Sprint Number | 
-| Hours | Observed | Hours that the team is available to develop in this sprint |
-| Planned Issues | Observed |  Number of Issues or tasks that the team has planned to do in this sprint |
-| Planned SP | Observed | Total of the Story Points the team has commited to do in this sprint |
-| Planned Issues Done | Observed | Number of issues done that were planned |
-| Unplanned Issues Done | Observed |	Number of issues done that were NOT planned |
-| Bugs (Issues) | Observed | Total Amount of bug issues done during this sprint (planned or unplanned) |
+| Sprint | Referenced | Sprint Number | 
+| Hours | Referenced | Hours that the team is available to develop in this sprint |
+| Planned Issues | Referenced |  Number of Issues or tasks that the team has planned to do in this sprint |
+| Planned SP | Referenced | Total of the Story Points the team has commited to do in this sprint |
+| Planned Issues Done | Referenced | Number of issues done that were planned |
+| Unplanned Issues Done | Referenced |	Number of issues done that were NOT planned |
+| Bugs (Issues) | Referenced | Total Amount of bug issues done during this sprint (planned or unplanned) |
 | Total Issues Done | Calculated | Total amount of issues done during this sprint |
 | Planned Issues NOT Done	| Calculated | Total amount of issues planned that were NOT done |
 | % Planned Issues | Calculated | % of planned issues done in this sprint |
 | % Unplanned Issues | Calculated | % of unplanned issues done in this sprint |
-| Planned SP Done	| Observed | Number of Story Points Done that were planned |
-| Unplanned SP Done | Observed | Number of Story Points Done that were NOT planned |
-| Bugs (SP)	| Observed | SP of bugs done during this sprint (planned or unplanned) |
+| Planned SP Done	| Referenced | Number of Story Points Done that were planned |
+| Unplanned SP Done | Referenced | Number of Story Points Done that were NOT planned |
+| Bugs (SP)	| Referenced | SP of bugs done during this sprint (planned or unplanned) |
 | Total SP Done	| Calculated | Total amount of Story Points done during this sprint |
 | Planned SP NOT Done	| Calculated | Total amount of Story Points planned that were NOT done |
 | % Planned SP	| Calculated | % of planned story points done in this sprint |
@@ -88,7 +95,7 @@ Below you can find the description of the data (columns) used in this sheet:
 | % Compliance	| Calculated | % compliance with what was planned: SP Done / Sp Planned |
 | Ratio SP / issue	| Calculated | Story Points per issue ratio |
 | SP / Hours	| Calculated | Team effectiveness in terms of value delivery per hour worked |
-| Hours Next Sprint	| Observed | Estimation of team avaliability hours for next sprint |
+| Hours Next Sprint	| Referenced | Estimation of team avaliability hours for next sprint |
 | Estimated Total SP | Calculated | Used to plan next sprint. SP that should be for next sprint regarding average delivery of the previous 5 sprints and team capacity |
 | Estimated SP Planned	| Calculated | Used to plan next sprint. SP that should be planned for next sprint regarding estimated total SP minus possible unplanned work |
 | Estimated SP Unplanned	| Calculated | Used to plan next sprint. Unplanned SP that the team would have next sprint regarding average of unplanned SP for the previous 5 sprints |
@@ -96,7 +103,7 @@ Below you can find the description of the data (columns) used in this sheet:
 | Compliance final % var	| Calculated | % of compliance final variation on what was predicted and what finally was |
 
 > [!NOTE]
-> The observed data used is based on real scrum teams but has been deliberately modified.
+> The *referenced* data is obtained from the *Sprint_details* sheet.
 
 ***
 
