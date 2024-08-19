@@ -68,7 +68,7 @@ Below you can find the description of the data (columns) used in this sheet:
 
 Contains raw data from Scrum sprints, including team availability (hours), story points or issues planned and completed, bugs resolved, and other calculations that provide insights into sprint performance and forecasting.
 
-<kbd>![SM Excel Dashboard - Data table](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/c87d4d9f059d0a48ff8f228866e4a6733e3530f2/assets/img/SM%20Excel%20Dashboard%20-%20Data%20table.png)
+<kbd>![SM Excel Dashboard - Data table](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/99be9d13d2fbf015a3704becb5b1a724e37a73ba/assets/img/SM%20Excel%20Dashboard%20-%20Data.png)
 
 Below you can find the description of the data (columns) used in this sheet:
 
