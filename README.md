@@ -38,6 +38,7 @@ This project demonstrates a range of data analysis skills that are crucial for u
 
 ### Formulas and Functions
 
+This Excel contains advanced use of Excel functions such as VLOOKUP, SUM, AVERAGE, ROUNDUP, and arithmetic operations to process and analyze the data.
 
 ***
 
