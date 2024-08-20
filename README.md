@@ -17,27 +17,24 @@ You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-
 
 ## :abacus: Skills and formulas used
 
-This Excel file demonstrates a variety of essential data analysis and visualization skills that are crucial for understanding the performance of a Scrum team. Below is a detailed breakdown of the skills and specific Excel functions utilized:
+This project demonstrates a range of data analysis skills that are crucial for understanding the performance of a Scrum team, including data cleaning, aggregation, and visualization, as well as the application of various Excel formulas and tools. Below is a detailed breakdown of the skills and specific Excel functions utilized:
 
-- Data Analysis and Management: The use of pivot tables, data validation, and structured references to organize and analyze large datasets efficiently.
-- Excel Formulas: Key formulas used in this file include:
- - SUMIFS and COUNTIFS: To calculate totals and counts based on multiple conditions.
- - AVERAGEIFS: To find averages under specific conditions, useful for analyzing team performance metrics.
- - INDEX-MATCH: For dynamic data retrieval from different tables.
--Conditional Formatting: To highlight key performance indicators (KPIs) and other important data points visually.
--Data Visualization: Creating dynamic charts and graphs to represent complex data in a visually appealing and easily interpretable manner.
+- **Data Management**:
+     - Data Backup and Handling: Ensuring data integrity by maintaining backup sheets.
+     - Manual Data Entry and Validation: Ensuring that all sprint data is accurately entered and validated, eliminating errors that could affect calculations and visualizations.
+     - Data Cleaning: Preparing the raw data for analysis, removing inconsistencies and ensuring accuracy.
+     - Data Structuring: Organizing data in a table format with clear headers and consistent data types, making it easier to analyze and create pivot tables. Cross-sheet references to ensure that the data is always consistent.
+     - Conditional Formatting: To highlight key performance indicators (KPIs) and other important data points visually.
 
-I've created cross-sheet references to ensure that the data is always consistent.
 
-### Data Cleaning and Preparation
+- **Analytical Skills**:
+     - PivotTables: Used to dynamically summarize data, allowing for quick analysis of key metrics across different sprints.
+     - Filtering and Slicing: Pivot tables enable quick filtering of data by sprint, issue type, or any other relevant category, which helps in identifying trends and making data-driven decisions.
 
-- **Manual Data Entry and Validation**: Ensuring that all sprint data is accurately entered and validated, eliminating errors that could affect calculations and visualizations.
-- **Data Structuring**: Organizing data in a table format with clear headers and consistent data types, making it easier to analyze and create pivot tables.
+- **Visualization Skills**:
 
-### Pivot Tables
-
-Dynamic Data Aggregation: Pivot tables are used to dynamically summarize and group data, allowing for flexible analysis of metrics such as planned issues, unplanned issues, and story points (SP) across different sprints.
-Filtering and Slicing: Pivot tables enable quick filtering of data by sprint, issue type, or any other relevant category, which helps in identifying trends and making data-driven decisions.
+     - Dashboard Creation: Crafting a dashboard that visualizes key metrics and trends, making complex data easily understandable.
+     - Conditional Formatting: Used to highlight important data points, such as compliance rates and sprint performance, providing quick visual cues.
 
 ### Formulas and Functions
 
