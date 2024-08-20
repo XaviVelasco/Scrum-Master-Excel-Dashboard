@@ -122,6 +122,13 @@ This worksheet cointains dynamically generated pivot tables that have been creat
 
 ### Dashboard
 
-A visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
+The dashboard created in this Excel file is a powerful tool for Scrum Masters and Product Owners, providing several key insights. It is a visual representation of key performance indicators (KPIs) tailored for the Scrum Master. The dashboard highlights team velocity, defect trends, and other critical metrics, as well as next sprint forecasting.
+
+- **Sprint Performance Tracking**: By comparing planned versus completed tasks, the dashboard allows Scrum Masters to assess the team's ability to meet sprint goals. This is crucial for maintaining team productivity and identifying any obstacles early on.
+- **Unplanned Work Monitoring**: The dashboard tracks the occurrence of unplanned tasks and their impact on the sprint. This helps in understanding scope creep and its effect on the team's ability to deliver on their commitments.
+- **Bug Tracking**: By including bug fixes in the analysis, the dashboard helps in assessing the quality of the work delivered and the effectiveness of the team in addressing issues as they arise.
+- **Compliance Rates**: The dashboard tracks compliance with sprint goals, providing a clear picture of the team's reliability and consistency over time. This metric is particularly useful for long-term planning and resource allocation.
+- **Resource Utilization**: By analyzing the hours worked and story points delivered, the dashboard provides insights into how effectively the team's resources are being utilized. This can inform decisions about team capacity and workload management.
+
 
 <kbd>![SM Excel Dashboard - Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/0d3387deb4ab816f0b4cb41eb08c7c2d9fa0441a/assets/img/SM%20Excel%20Dashboard%20-%20Dashboard.png)
