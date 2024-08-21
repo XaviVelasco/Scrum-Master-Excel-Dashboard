@@ -36,9 +36,9 @@ This project demonstrates a range of data analysis skills that are crucial for u
      - Dashboard Creation: Crafting a dashboard that visualizes key metrics and trends, making complex data easily understandable.
      - Conditional Formatting: Used to highlight important data points, such as compliance rates and sprint performance, providing quick visual cues.
 
-### Formulas and Functions
+- **Formulas and Functions**:
 
-This Excel contains advanced use of Excel functions such as VLOOKUP, SUM, AVERAGE, ROUNDUP, and arithmetic operations to process and analyze the data.
+     - This Excel contains advanced use of Excel functions such as VLOOKUP, SUM, AVERAGE, ROUNDUP, and arithmetic operations to process and analyze the data.
 
 ***
 
