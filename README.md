@@ -130,6 +130,6 @@ The dashboard created in this Excel file is a powerful tool for Scrum Masters an
 - **Bug Tracking**: By including bug fixes in the analysis, the dashboard helps in assessing the quality of the work delivered and the effectiveness of the team in addressing issues as they arise.
 - **Compliance Rates**: The dashboard tracks compliance with sprint goals, providing a clear picture of the team's reliability and consistency over time. This metric is particularly useful for long-term planning and resource allocation.
 - **Resource Utilization**: By analyzing the hours worked and story points delivered, the dashboard provides insights into how effectively the team's resources are being utilized. This can inform decisions about team capacity and workload management.
-
-
+- **Next Sprint's forecasting**: This dashboard also provides data to take into account when planning the next sprint, based on data from the selected sprints.
+  
 <kbd>![SM Excel Dashboard - Dashboard](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/0d3387deb4ab816f0b4cb41eb08c7c2d9fa0441a/assets/img/SM%20Excel%20Dashboard%20-%20Dashboard.png)
