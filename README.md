@@ -11,7 +11,7 @@ This Excel workbook offers a comprehensive overview of a Scrum team's performanc
 - Pivot Tables
 - Dashboard
 
-You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/f4214c17ebf1bf0544235bd73b1e5fb15f800fd4/Excel%20-%20Scrum%20Master%20Dashboard.xlsx).
+You can check the Excel file [here](https://github.com/XaviVelasco/Scrum-Master-Excel-Dashboard/blob/edf5446b645b270483108baeb54e9e1fd64d4e51/Excel%20-%20Scrum%20Master%20Dashboard.xlsx).
 
 ***
 
